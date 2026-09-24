@@ -16,7 +16,7 @@
  PennywiseCLI.java
  ```
 
- ## Para compilar o código, vai ser preciso o JDK 24 (usando o JDK 17 gerou erros de versão, ao testar em JDK24 ele o superou )usar:
+ ## Para compilar o código, vai ser preciso o JDK 21 ou jDK24 (usando o JDK 17 gerou erros de versão, ao testar em JDK24 ele o superou ), usando o JDK 21:
  ```
  javac PennywiseCLI.java
  ```
